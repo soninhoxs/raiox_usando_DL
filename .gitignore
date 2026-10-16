@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+figuras/
+classificacao_pneumonia_transfer_learning.ipynb
